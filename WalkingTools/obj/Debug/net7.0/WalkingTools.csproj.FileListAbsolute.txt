@@ -1,0 +1,15 @@
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/bin/Debug/net7.0/WalkingTools
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/bin/Debug/net7.0/WalkingTools.deps.json
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/bin/Debug/net7.0/WalkingTools.runtimeconfig.json
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/bin/Debug/net7.0/WalkingTools.dll
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/bin/Debug/net7.0/WalkingTools.pdb
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/obj/Debug/net7.0/WalkingTools.csproj.AssemblyReference.cache
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/obj/Debug/net7.0/WalkingTools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/obj/Debug/net7.0/WalkingTools.AssemblyInfoInputs.cache
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/obj/Debug/net7.0/WalkingTools.AssemblyInfo.cs
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/obj/Debug/net7.0/WalkingTools.csproj.CoreCompileInputs.cache
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/obj/Debug/net7.0/WalkingTools.dll
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/obj/Debug/net7.0/refint/WalkingTools.dll
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/obj/Debug/net7.0/WalkingTools.pdb
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/obj/Debug/net7.0/WalkingTools.genruntimeconfig.cache
+/Users/eddie/development/csharp_demos/OrientationTools/WalkingTools/obj/Debug/net7.0/ref/WalkingTools.dll
